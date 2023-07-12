@@ -1,0 +1,2914 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Lib xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="olb.xsd">
+ 
+  <Defn name="2023-07-11_12-26-06.OLB"/>
+ 
+  <Package>
+    <Defn alphabeticNumbering="1" isHomogeneous="0" name="STM32L476RGT6" pcbFootprint="LQFP64-10x10mm_STM" pcbLib="" refdesPrefix="U"/>
+    <LibPart>
+      <Defn/>
+      <NormalView>
+        <Defn suffix=".Normal"/>
+        <SymbolDisplayProp>
+          <Defn locX="100" locY="-30" name="Part Reference" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn val="1"/>
+          </PropDispType>
+        </SymbolDisplayProp>
+        <SymbolDisplayProp>
+          <Defn locX="100" locY="-20" name="Value" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn val="1"/>
+          </PropDispType>
+        </SymbolDisplayProp>
+        <SymbolUserProp>
+          <Defn name="Copyright" val="Copyright (C) 2023 Ultra Librarian. All rights reserved."/>
+        </SymbolUserProp>
+        <SymbolUserProp>
+          <Defn name="Mfr_Name" val="STMicroelectronics"/>
+        </SymbolUserProp>
+        <SymbolUserProp>
+          <Defn name="Manufacturer_Part_Number" val="STM32L476RGT6"/>
+        </SymbolUserProp>
+        <SymbolUserProp>
+          <Defn name="Digi-Key_Part_Number_1" val="497-15877-ND"/>
+        </SymbolUserProp>
+        <SymbolColor>
+          <Defn val="48"/>
+        </SymbolColor>
+        <SymbolBBox>
+          <Defn x1="0" x2="200" y1="0" y2="110"/>
+        </SymbolBBox>
+        <IsPinNumbersVisible>
+          <Defn val="1"/>
+        </IsPinNumbersVisible>
+        <IsPinNamesRotated>
+          <Defn val="1"/>
+        </IsPinNamesRotated>
+        <IsPinNamesVisible>
+          <Defn val="1"/>
+        </IsPinNamesVisible>
+        <ContentsLibName>
+          <Defn name=""/>
+        </ContentsLibName>
+        <ContentsViewName>
+          <Defn name="STM32L476RGT6"/>
+        </ContentsViewName>
+        <ContentsViewType>
+          <Defn type="0"/>
+        </ContentsViewType>
+        <PartValue>
+          <Defn name="STM32L4X6RXT6"/>
+        </PartValue>
+        <Reference>
+          <Defn name="U"/>
+        </Reference>
+        <Rect>
+          <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="3" x1="0" x2="200" y1="0" y2="110"/>
+        </Rect>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="20" name="VSS" position="0" startX="0" startY="20" type="7" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="30" name="VSS_2" position="1" startX="0" startY="30" type="7" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="40" name="VSS_3" position="2" startX="0" startY="40" type="7" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="50" name="VSS_4" position="3" startX="0" startY="50" type="7" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="70" name="VSSA/VREF-" position="4" startX="0" startY="70" type="7" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-30" hotptY="90" name="VBAT" position="5" startX="0" startY="90" type="7" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="230" hotptY="20" name="VDD" position="6" startX="200" startY="20" type="7" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="230" hotptY="30" name="VDD_2" position="7" startX="200" startY="30" type="7" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="230" hotptY="40" name="VDD_3" position="8" startX="200" startY="40" type="7" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="230" hotptY="60" name="VDDA/VREF+" position="9" startX="200" startY="60" type="7" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="230" hotptY="80" name="VDDUSB" position="10" startX="200" startY="80" type="7" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+      </NormalView>
+      <PhysicalPart>
+        <Defn/>
+        <PinNumber>
+          <Defn number="1" position="5"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="12" position="4"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="13" position="9"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="18" position="0"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="19" position="6"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="31" position="1"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="32" position="7"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="47" position="2"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="48" position="10"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="63" position="3"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="64" position="8"/>
+        </PinNumber>
+      </PhysicalPart>
+    </LibPart>
+    <LibPart>
+      <Defn/>
+      <NormalView>
+        <Defn suffix=".Normal"/>
+        <SymbolDisplayProp>
+          <Defn locX="120" locY="-30" name="Part Reference" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn val="1"/>
+          </PropDispType>
+        </SymbolDisplayProp>
+        <SymbolDisplayProp>
+          <Defn locX="120" locY="-20" name="Value" rotation="0" textJustification="0"/>
+          <PropFont>
+            <Defn escapement="0" height="-9" italic="0" name="Arial" orientation="0" weight="400" width="4"/>
+          </PropFont>
+          <PropColor>
+            <Defn val="48"/>
+          </PropColor>
+          <PropDispType>
+            <Defn val="1"/>
+          </PropDispType>
+        </SymbolDisplayProp>
+        <SymbolUserProp>
+          <Defn name="Copyright" val="Copyright (C) 2023 Ultra Librarian. All rights reserved."/>
+        </SymbolUserProp>
+        <SymbolUserProp>
+          <Defn name="Mfr_Name" val="STMicroelectronics"/>
+        </SymbolUserProp>
+        <SymbolUserProp>
+          <Defn name="Manufacturer_Part_Number" val="STM32L476RGT6"/>
+        </SymbolUserProp>
+        <SymbolUserProp>
+          <Defn name="Digi-Key_Part_Number_1" val="497-15877-ND"/>
+        </SymbolUserProp>
+        <SymbolColor>
+          <Defn val="48"/>
+        </SymbolColor>
+        <SymbolBBox>
+          <Defn x1="0" x2="220" y1="0" y2="360"/>
+        </SymbolBBox>
+        <IsPinNumbersVisible>
+          <Defn val="1"/>
+        </IsPinNumbersVisible>
+        <IsPinNamesRotated>
+          <Defn val="1"/>
+        </IsPinNamesRotated>
+        <IsPinNamesVisible>
+          <Defn val="1"/>
+        </IsPinNamesVisible>
+        <ContentsLibName>
+          <Defn name=""/>
+        </ContentsLibName>
+        <ContentsViewName>
+          <Defn name="STM32L476RGT6"/>
+        </ContentsViewName>
+        <ContentsViewType>
+          <Defn type="0"/>
+        </ContentsViewType>
+        <PartValue>
+          <Defn name="STM32L4X6RXT6_1"/>
+        </PartValue>
+        <Reference>
+          <Defn name="U"/>
+        </Reference>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="20" y2="18"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="20" y2="22"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="18" y2="20"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="22" y2="20"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="30" y2="28"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="30" y2="32"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="28" y2="30"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="32" y2="30"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="40" y2="38"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="40" y2="42"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="38" y2="40"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="42" y2="40"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="50" y2="48"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="50" y2="52"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="48" y2="50"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="52" y2="50"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="60" y2="58"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="60" y2="62"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="58" y2="60"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="62" y2="60"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="70" y2="68"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="70" y2="72"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="68" y2="70"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="72" y2="70"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="80" y2="78"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="80" y2="82"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="78" y2="80"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="82" y2="80"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="90" y2="88"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="90" y2="92"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="88" y2="90"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="92" y2="90"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="100" y2="98"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="100" y2="102"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="98" y2="100"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="102" y2="100"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="110" y2="108"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="110" y2="112"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="108" y2="110"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="112" y2="110"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="120" y2="118"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="120" y2="122"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="118" y2="120"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="122" y2="120"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="130" y2="128"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="130" y2="132"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="128" y2="130"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="132" y2="130"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="140" y2="138"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="140" y2="142"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="138" y2="140"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="142" y2="140"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="150" y2="148"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="150" y2="152"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="148" y2="150"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="152" y2="150"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="160" y2="158"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="160" y2="162"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="158" y2="160"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="162" y2="160"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="170" y2="168"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="170" y2="172"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="168" y2="170"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="172" y2="170"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="190" y2="188"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="190" y2="192"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="188" y2="190"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="192" y2="190"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="200" y2="198"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="200" y2="202"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="198" y2="200"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="202" y2="200"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="210" y2="208"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="210" y2="212"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="208" y2="210"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="212" y2="210"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="220" y2="218"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="220" y2="222"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="218" y2="220"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="222" y2="220"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="230" y2="228"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="230" y2="232"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="228" y2="230"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="232" y2="230"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="240" y2="238"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="240" y2="242"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="238" y2="240"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="242" y2="240"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="250" y2="248"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="250" y2="252"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="248" y2="250"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="252" y2="250"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="260" y2="258"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="260" y2="262"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="258" y2="260"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="262" y2="260"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="270" y2="268"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="270" y2="272"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="268" y2="270"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="272" y2="270"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="280" y2="278"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="280" y2="282"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="278" y2="280"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="282" y2="280"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="290" y2="288"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="290" y2="292"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="288" y2="290"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="292" y2="290"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="300" y2="298"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="300" y2="302"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="298" y2="300"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="302" y2="300"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="310" y2="308"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="310" y2="312"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="308" y2="310"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="312" y2="310"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="320" y2="318"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="320" y2="322"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="318" y2="320"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="322" y2="320"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="330" y2="328"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="330" y2="332"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="328" y2="330"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="332" y2="330"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="340" y2="338"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="8" x2="4" y1="340" y2="342"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="338" y2="340"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="2" x2="-2" y1="342" y2="340"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="20" y2="18"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="20" y2="22"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="18" y2="20"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="22" y2="20"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="30" y2="28"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="30" y2="32"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="28" y2="30"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="32" y2="30"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="40" y2="38"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="40" y2="42"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="38" y2="40"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="42" y2="40"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="50" y2="48"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="50" y2="52"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="48" y2="50"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="52" y2="50"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="60" y2="58"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="60" y2="62"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="58" y2="60"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="62" y2="60"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="70" y2="68"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="70" y2="72"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="68" y2="70"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="72" y2="70"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="80" y2="78"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="80" y2="82"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="78" y2="80"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="82" y2="80"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="90" y2="88"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="90" y2="92"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="88" y2="90"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="92" y2="90"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="100" y2="98"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="100" y2="102"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="98" y2="100"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="102" y2="100"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="110" y2="108"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="110" y2="112"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="108" y2="110"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="112" y2="110"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="120" y2="118"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="120" y2="122"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="118" y2="120"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="122" y2="120"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="130" y2="128"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="130" y2="132"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="128" y2="130"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="132" y2="130"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="140" y2="138"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="140" y2="142"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="138" y2="140"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="142" y2="140"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="150" y2="148"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="150" y2="152"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="148" y2="150"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="152" y2="150"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="160" y2="158"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="160" y2="162"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="158" y2="160"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="162" y2="160"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="170" y2="168"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="170" y2="172"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="168" y2="170"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="172" y2="170"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="190" y2="188"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="190" y2="192"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="188" y2="190"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="192" y2="190"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="210" y2="208"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="210" y2="212"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="208" y2="210"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="212" y2="210"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="220" y2="218"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="220" y2="222"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="218" y2="220"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="222" y2="220"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="230" y2="228"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="230" y2="232"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="228" y2="230"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="232" y2="230"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="250" y2="248"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="232" x2="237" y1="250" y2="252"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="248" y2="250"/>
+        </Line>
+        <Line>
+          <Defn lineStyle="0" lineWidth="3" x1="239" x2="243" y1="252" y2="250"/>
+        </Line>
+        <Rect>
+          <Defn fillStyle="1" hatchStyle="0" lineStyle="0" lineWidth="3" x1="10" x2="230" y1="0" y2="360"/>
+        </Rect>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="20" name="PA0" position="0" startX="10" startY="20" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="30" name="PA1" position="1" startX="10" startY="30" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="40" name="PA2" position="2" startX="10" startY="40" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="50" name="PA3" position="3" startX="10" startY="50" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="60" name="PA4" position="4" startX="10" startY="60" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="70" name="PA5" position="5" startX="10" startY="70" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="80" name="PA6" position="6" startX="10" startY="80" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="90" name="PA7" position="7" startX="10" startY="90" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="100" name="PA8" position="8" startX="10" startY="100" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="110" name="PA9" position="9" startX="10" startY="110" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="120" name="PA10" position="10" startX="10" startY="120" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="130" name="PA11" position="11" startX="10" startY="130" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="140" name="PA12" position="12" startX="10" startY="140" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="150" name="PA13" position="13" startX="10" startY="150" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="160" name="PA14" position="14" startX="10" startY="160" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="170" name="PA15" position="15" startX="10" startY="170" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="190" name="PB0" position="16" startX="10" startY="190" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="200" name="PB1" position="17" startX="10" startY="200" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="210" name="PB2" position="18" startX="10" startY="210" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="220" name="PB3" position="19" startX="10" startY="220" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="230" name="PB4" position="20" startX="10" startY="230" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="240" name="PB5" position="21" startX="10" startY="240" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="250" name="PB6" position="22" startX="10" startY="250" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="260" name="PB7" position="23" startX="10" startY="260" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="270" name="PB8" position="24" startX="10" startY="270" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="280" name="PB9" position="25" startX="10" startY="280" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="290" name="PB10" position="26" startX="10" startY="290" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="300" name="PB11" position="27" startX="10" startY="300" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="310" name="PB12" position="28" startX="10" startY="310" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="320" name="PB13" position="29" startX="10" startY="320" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="330" name="PB14" position="30" startX="10" startY="330" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="-20" hotptY="340" name="PB15" position="31" startX="10" startY="340" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="20" name="PC0" position="32" startX="230" startY="20" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="30" name="PC1" position="33" startX="230" startY="30" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="40" name="PC2" position="34" startX="230" startY="40" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="50" name="PC3" position="35" startX="230" startY="50" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="60" name="PC4" position="36" startX="230" startY="60" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="70" name="PC5" position="37" startX="230" startY="70" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="80" name="PC6" position="38" startX="230" startY="80" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="90" name="PC7" position="39" startX="230" startY="90" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="100" name="PC8" position="40" startX="230" startY="100" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="110" name="PC9" position="41" startX="230" startY="110" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="120" name="PC10" position="42" startX="230" startY="120" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="130" name="PC11" position="43" startX="230" startY="130" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="140" name="PC12" position="44" startX="230" startY="140" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="150" name="PC13" position="45" startX="230" startY="150" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="160" name="PC14-OSC32_IN" position="46" startX="230" startY="160" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="170" name="PC15-OSC32_OUT" position="47" startX="230" startY="170" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="190" name="PD2" position="48" startX="230" startY="190" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="210" name="PH0-OSC_IN" position="49" startX="230" startY="210" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="220" name="PH1-OSC_OUT" position="50" startX="230" startY="220" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="230" name="PH3-BOOT0" position="51" startX="230" startY="230" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+        <SymbolPinScalar>
+          <Defn hotptX="260" hotptY="250" name="NRST" position="52" startX="230" startY="250" type="1" visible="1"/>
+          <IsLong>
+            <Defn val="1"/>
+          </IsLong>
+          <IsClock>
+            <Defn val="0"/>
+          </IsClock>
+          <IsDot>
+            <Defn val="0"/>
+          </IsDot>
+          <IsLeftPointing>
+            <Defn val="0"/>
+          </IsLeftPointing>
+          <IsRightPointing>
+            <Defn val="0"/>
+          </IsRightPointing>
+          <IsNetStyle>
+            <Defn val="0"/>
+          </IsNetStyle>
+          <IsNoConnect>
+            <Defn val="0"/>
+          </IsNoConnect>
+          <IsGlobal>
+            <Defn val="0"/>
+          </IsGlobal>
+          <IsNumberVisible>
+            <Defn val="1"/>
+          </IsNumberVisible>
+        </SymbolPinScalar>
+      </NormalView>
+      <PhysicalPart>
+        <Defn/>
+        <PinNumber>
+          <Defn number="2" position="45"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="3" position="46"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="4" position="47"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="5" position="49"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="6" position="50"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="7" position="52"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="8" position="32"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="9" position="33"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="10" position="34"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="11" position="35"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="14" position="0"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="15" position="1"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="16" position="2"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="17" position="3"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="20" position="4"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="21" position="5"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="22" position="6"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="23" position="7"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="24" position="36"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="25" position="37"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="26" position="16"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="27" position="17"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="28" position="18"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="29" position="26"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="30" position="27"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="33" position="28"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="34" position="29"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="35" position="30"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="36" position="31"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="37" position="38"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="38" position="39"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="39" position="40"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="40" position="41"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="41" position="8"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="42" position="9"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="43" position="10"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="44" position="11"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="45" position="12"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="46" position="13"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="49" position="14"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="50" position="15"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="51" position="42"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="52" position="43"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="53" position="44"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="54" position="48"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="55" position="19"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="56" position="20"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="57" position="21"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="58" position="22"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="59" position="23"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="60" position="51"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="61" position="24"/>
+        </PinNumber>
+        <PinNumber>
+          <Defn number="62" position="25"/>
+        </PinNumber>
+      </PhysicalPart>
+    </LibPart>
+  </Package>
+ 
+</Lib>

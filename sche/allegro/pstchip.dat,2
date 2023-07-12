@@ -1,0 +1,36 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.2.0 d001Jul-11-2023 at 19:05:04}
+primitive '1N4007_DIODE-1A_1N4007';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'K':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='1N4007';
+    JEDEC_TYPE='Diode-1A';
+    VALUE='1N4007';
+  end_body;
+end_primitive;
+primitive 'VR-VOLUME-SINGLE_VR-VOLUME-SING';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'WIPER':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='VR-VOLUME-SINGLE';
+    JEDEC_TYPE='VR-VOLUME-SINGLE';
+    VALUE='VR-VOLUME-SINGLE';
+  end_body;
+end_primitive;
+END.
